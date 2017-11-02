@@ -244,7 +244,7 @@ from Sydney and Dean Michael Berris from Google.
 
 Pacific++ 2017 was a huge success. I have to take my hat off to Phil Williams
 for organizing it and for sticking his neck out because there was no guarantee
-of success and he could have been left personally out-of-packet.
+of success and he could have been left personally out-of-pocket.
 
 I really hope this conference happens again (and I've heard some encouraging
 signs). I also hope that, encouraged by the success of the first one, more
